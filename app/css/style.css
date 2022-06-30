@@ -1,0 +1,10 @@
+/*Mint Color Palette*/
+blockquote.mint{
+  border-left-color: #46cfb0;
+  border-right-color: #34bc9d;
+}
+
+blockquote.due{
+  border-left-color: #CCFFCC;
+  border-right-color: #CCFFCC;
+}
